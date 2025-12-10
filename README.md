@@ -23,3 +23,5 @@ I create only what I truly want to create.
 I love chatting, so sometimes I get a little wordy—please don’t mind it. 😭
 And… I really want to be famous someday.
 (Wait—forget I said that. I never said it.)
+
+If you think my work is not bad, please consider giving it a Star ⭐ as a small gesture of support.
