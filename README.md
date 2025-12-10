@@ -1,39 +1,25 @@
-## Hi there 👋,I’m YD525(约定).
-The term YD is actually an abbreviation using the first letters of the Pinyin spelling: YueDing -> YD.
+# 👋 Hi, I’m YD525 (约定)
 
-525 is actually a set of important numbers that I will never forget.
+## ✨ About My Name
+YD comes from the initials of the Pinyin YueDing.
+525 is a set of numbers that carries a special meaning to me—something I’ll never forget.
 
-Uh oh, I think I said a bunch of useless things, didn't I? Please don't mind it. QAQ.
+## 💫 Who I Am
+🐾 I'm the type who happily wags my tail—if you spot mistakes, I’ll fix them right away.
+🎨 I’m passionate about 2D culture, and my creativity is closely tied to my emotions.
+When I'm in a good state, I work extremely hard.
+When I’m not, progress slows down—or I may set things aside for a while.
+⭐ I enjoy having people follow my work, but I never chase popularity blindly.
+I create only what I truly want to create.
+🧩 I don’t follow the world. I build my own.
 
-I love Japan, Germany, the United States, and all the countries in the world!
+## 🔧 What I Work On
+- Windows development
+- C++ / C#
+- Tools, utilities, mods, and passion-driven projects
+- I value logic, iteration, and long-term craftsmanship over shortcuts
 
-I really wish I could work on a project with programmers from all over the world.
-
-I’m the type to wag my tail and please others—if you find mistakes, I’ll fix them~
-
-I’m passionate about 2D culture, and my creations come from my emotions. When I’m in a good state, I work very hard; when I’m not, progress slows down or sometimes I just put things aside.
-
-I like having a following, but I don’t blindly chase popularity—I only create what I truly want to.
-
-—I don’t follow the world. I build my own.
-
-I love chatting, so I tend to talk a lot and get a bit wordy—hope you don’t mind.
-
-Also... I really wanna be famous, ahhhhh!
-
-(Oh wait, forget I said that. I never said it.)
-
-<!--
-**YD525/YD525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 A Bit More About Me
+I love chatting, so sometimes I get a little wordy—please don’t mind it. 😭
+And… I really want to be famous someday.
+(Wait—forget I said that. I never said it.)
