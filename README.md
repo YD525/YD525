@@ -5,6 +5,9 @@ The term YD is actually an abbreviation using the first letters of the Pinyin sp
 
 Uh oh, I think I said a bunch of useless things, didn't I? Please don't mind it. QAQ.
 
+I love Japan, Germany, the United States, and all the countries in the world!
+I really wish I could work on a project with programmers from all over the world.
+
 <!--
 **YD525/YD525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
