@@ -15,7 +15,7 @@ I create only what I truly want to create.
 
 ## 🔧 What I Work On
 - Windows development
-- C++ / C#
+- C# / C++
 - Tools, utilities, mods, and passion-driven projects
 - I value logic, iteration, and long-term craftsmanship over shortcuts
 
