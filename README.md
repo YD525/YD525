@@ -17,7 +17,7 @@ I create only what I truly want to create.
 - C/S C# WPF C++ MFC,KMDF C# WinForm,B/S C# ASP.Net MVC C# NetCore MVC
 - (My WPF layering might not be the standard MVVM, but rather a type I prefer.)
 - Favorite language: C# / C++
-- Papyrus,Jass,Lua (I'm a beginner, so my writing might not be very good.)
+- Papyrus/Jass/Lua (I'm a beginner, so my writing might not be very good.)
 - Tools, utilities, mods, and passion-driven projects
 - I value logic, iteration, and long-term craftsmanship over shortcuts
 
