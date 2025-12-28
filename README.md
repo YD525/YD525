@@ -4,7 +4,7 @@
 YD comes from the initials of the Pinyin YueDing. 525 is a set of numbers that carries a special meaning to me—something I’ll never forget.
 
 💫 **Who I Am**  
-🐾 I happily wag my tail when coding—spot a mistake, and I’ll fix it right away.  
+🐾 I enjoy writing code and exchanging technical ideas with others. It makes me very happy.
 🎨 Passionate about 2D culture, my creativity follows my emotions.  
 ⭐ I enjoy people following my work, but I never chase popularity blindly. I create only what I truly want to create.  
 🧩 I don’t follow the world. I build my own.
