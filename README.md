@@ -14,8 +14,9 @@ I create only what I truly want to create.
 🧩 I don’t follow the world. I build my own.
 
 ## 🔧 What I Work On
-- Windows development
+- Windows development (C/S WPF MFC WinForm,B/S ASP.NET MVC NETCORE MVC)
 - C# / C++
+- Papyrus And lua (I'm a beginner, so my writing might not be very good.)
 - Tools, utilities, mods, and passion-driven projects
 - I value logic, iteration, and long-term craftsmanship over shortcuts
 
