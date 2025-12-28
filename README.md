@@ -15,7 +15,7 @@ I create only what I truly want to create.
 
 ## 🔧 What I Work On
 - Windows development (C/S WPF MFC WinForm,B/S ASP.NET MVC NETCORE MVC)
-- C# / C++
+- Favorite language: C# / C++
 - Papyrus And lua (I'm a beginner, so my writing might not be very good.)
 - Tools, utilities, mods, and passion-driven projects
 - I value logic, iteration, and long-term craftsmanship over shortcuts
