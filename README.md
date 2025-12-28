@@ -9,13 +9,14 @@ YD comes from the initials of the Pinyin YueDing. 525 is a set of numbers that c
 ⭐ I enjoy people following my work, but I never chase popularity blindly. I create only what I truly want to create.  
 🧩 I don’t follow the world. I build my own.
 
-💡 How I Got Into Programming
-I started down the path of programming because of my childhood love for Digimon. I vividly remember watching a character named Koushiro “Izzy” Izumi — a tech‑savvy genius who could handle computers like a wizard — and that inspired me to explore code and technology myself. Ever since then, I fell in love with the logic and creativity of programming.
+💡 **How I Got Into Programming**  
+I started down the path of programming because of my childhood love for *Digimon*. I vividly remember watching a character named **Koushiro “Izzy” Izumi** — a tech‑savvy genius who could handle computers like a wizard — and that inspired me to explore code and technology myself. Ever since then, I fell in love with the logic and creativity of programming.
 
 😅 **A Note About Me**  
 My emotions can be a bit unpredictable at times. I’m aware of it, and I try to stay mindful, but sometimes my moods might influence how I work or interact. I appreciate your understanding.
 
 🔧 **What I Work On**  
+
 **Languages & Frameworks:**  
 - C# (WPF, WinForms, ASP.Net MVC, NetCore MVC)  
 - C++ (MFC, KMDF)  
