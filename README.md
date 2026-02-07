@@ -42,13 +42,13 @@ As long as their functionality is genuinely innovative, I can accept that.
 -I’m making one simple point: these features were my ideas, and I implemented them myself. I fully understand their internal details and limitations.
 
 
--There are two kinds of people in the world.
+- There are two kinds of people in the world.
 
--One kind contributes without caring about money or reputation.
+- One kind contributes without caring about money or reputation.
 The other also doesn’t care about money, but contributes mainly to seek encouragement from users and to be liked by them.
 
--The former is greater than the latter.
+- The former is greater than the latter.
 
--YD525 belongs to the latter.
+- YD525 belongs to the latter.
 
 If you like my work, consider giving it a ⭐ as a small gesture of support.
