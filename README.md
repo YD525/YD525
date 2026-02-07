@@ -44,7 +44,7 @@ As long as their functionality is genuinely innovative, I can accept that.
 
 - There are two kinds of people in the world.
 
-- One kind contributes without caring about money or reputation.
+  One kind contributes without caring about money or reputation.
 The other also doesn’t care about money, but contributes mainly to seek encouragement from users and to be liked by them.
 
 - The former is greater than the latter.
