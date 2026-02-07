@@ -19,6 +19,7 @@ My emotions can be a bit unpredictable at times. I’m aware of it, and I try to
 
 **Languages & Frameworks:**  
  My unique development style is a hybrid approach using C# as the primary language and C++ as a secondary language. C# handles the user interface layer, while C++ focuses on efficiency and handles the underlying system layers.<- This is only done when YD525 takes a project seriously.
+ AI is very powerful now, but I still insist on writing code by hand. Of course, there are some very minor details that I'm lazy about, and I let AI do the coding for me.
 - C# (WPF, WinForms, ASP.Net MVC, NetCore MVC)  
 - C++ (MFC, KMDF)  
 - Papyrus / Jass / Lua (beginner)
