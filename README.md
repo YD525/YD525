@@ -42,6 +42,7 @@ As long as their functionality is genuinely innovative, I can accept that.
 -I’m making one simple point: these features were my ideas, and I implemented them myself. I fully understand their internal details and limitations.
 
 
+💫**What kind of person is YD525:**
 - There are two kinds of people in the world.
 
   One kind contributes without caring about money or reputation.
