@@ -28,6 +28,10 @@ My emotions can be a bit unpredictable at times. I’m aware of it, and I try to
 
 **About my open source:** 
 - I can tolerate someone completely plagiarizing, as long as they are polite; but I cannot tolerate someone stealing my idea and then criticizing me. Have you ever seen someone completely copy someone else's core functionality and then attack the original author?
+- In my understanding, copying refers to copying functionality and logic, not the code itself. Writing code is easy; the truly important part is the underlying logic.
+Some ideas are simply things others would not think of, but I can.
+Today, with AI being so powerful, many people can easily copy someone else’s code. In just one second, AI can rewrite it so it no longer looks like a direct copy. But that doesn’t change the fact that the logic itself was copied.
+  
 - Advanced dictionary features and count-based placeholders are things I have studied and relied on for a long time in my own tools—including SSELex, and even in projects unrelated to any specific game. They are mechanisms I use extensively, and they are ideas I came up with myself.
 - The biggest drawback of placeholders lies in patterns like xxx_0_. The xxx part before the placeholder is difficult to handle properly, and after replacement it can easily distort the original meaning of the content.
 - Context generation is a newer idea of mine. Because AI output is inherently random, providing the AI with the translation of the previous related entry helps ensure consistency across translations.
