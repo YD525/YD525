@@ -32,8 +32,8 @@ My emotions can be a bit unpredictable at times. I’m aware of it, and I try to
 Some ideas are simply things others would not think of, but I can.
 Today, with AI being so powerful, many people can easily copy someone else’s code. In just one second, AI can rewrite it so it no longer looks like a direct copy. But that doesn’t change the fact that the logic itself was copied.
 
-- By contrast, learning from or drawing inspiration means that someone looks at my logic and then builds a better program on top of it. They don’t even need to credit me.
-As long as their functionality is genuinely innovative, I can accept that.
+- By contrast, learning from or drawing inspiration means that someone looks at my logic and then builds a better program on top of it. They don’t even need to credit me.  
+  **As long as their functionality is genuinely innovative, I can accept that.**
   
 - Advanced dictionary features and count-based placeholders are things I have studied and relied on for a long time in my own tools—including SSELex, and even in projects unrelated to any specific game. They are mechanisms I use extensively, and they are ideas I came up with myself.
 - The biggest drawback of placeholders lies in patterns like xxx_0_. The xxx part before the placeholder is difficult to handle properly, and after replacement it can easily distort the original meaning of the content.
