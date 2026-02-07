@@ -24,6 +24,9 @@ My emotions can be a bit unpredictable at times. I’m aware of it, and I try to
 
 **Focus Areas:**  
 - Tools, utilities, mods  
-- Logic, iteration, and long-term craftsmanship  
+- Logic, iteration, and long-term craftsmanship
+
+**About my open source:** 
+I can tolerate someone completely plagiarizing, as long as they are polite; but I cannot tolerate someone stealing my idea and then criticizing me. Have you ever seen someone completely copy someone else's core functionality and then attack the original author?
 
 If you like my work, consider giving it a ⭐ as a small gesture of support.
