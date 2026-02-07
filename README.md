@@ -23,6 +23,8 @@ My emotions can be a bit unpredictable at times. I’m aware of it, and I try to
 - AI is very powerful now, but I still insist on writing code by hand. Of course, there are some very minor details that I'm lazy about, and I let AI do the coding for me.
 - The reason I insist on writing code manually is because I am unwilling to give up this dedication, and I don't want to forget my impression of programming.
 - I've written software for many companies, and they have beautiful interfaces. I'm tired of outsourcing. I want to write my own software, just for myself.
+- I might neglect performance and size in my own projects due to laziness. But one thing is clear: I have strict requirements for performance, size, and functionality.
+- And I have obsessive-compulsive disorder.
 - C# (WPF, WinForms, ASP.Net MVC, NetCore MVC)  
 - C++ (MFC, KMDF)  
 - Papyrus / Jass / Lua (beginner)
