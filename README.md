@@ -29,7 +29,7 @@ I chose **completely** open source because I wanted to ensure standardization an
 
 - I might neglect performance and size in my own projects due to laziness. But one thing is clear: I have strict requirements for performance, size, and functionality.
 - And I have obsessive-compulsive disorder.
-
+- The primary focus is on client/server (C/S), followed by browser/server (B/S).
 - C# (WPF, WinForms, ASP.Net MVC, NetCore MVC)  
 - C++ (MFC, KMDF)  
 - Papyrus / Jass / Lua (beginner)
