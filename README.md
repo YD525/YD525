@@ -26,6 +26,8 @@ My emotions can be a bit unpredictable at times. I’m aware of it, and I try to
 It's a pity they can't be shown; the projects I have in the repository are all small personal projects. (Except for Lexicon AI Translator, which I developed from an enterprise development perspective.),
 To ensure the performance of Lexicon AI Translator and the security of translating game files, I have a large number of modules in my repository specifically designed for it.
 I chose **completely** open source because I wanted to ensure standardization and give users complete confidence in it. More importantly, it allows users to modify it flexibly.
+
+- My documentation writing skills are terrible, so I hope you can understand. Programmers are not responsible for writing product user documentation.
 - I might neglect performance and size in my own projects due to laziness. But one thing is clear: I have strict requirements for performance, size, and functionality.
 - And I have obsessive-compulsive disorder.
 
