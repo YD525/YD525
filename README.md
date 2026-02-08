@@ -33,6 +33,7 @@ I chose **completely** open source because I wanted to ensure standardization an
 - C# (WPF, WinForms, ASP.Net MVC, NetCore MVC)  
 - C++ (MFC, KMDF)  
 - Papyrus / Jass / Lua (beginner)
+- Whether it's module script development, software development, or website development, my logic remains the same ~
 
 **Focus Areas:**  
 - Tools, utilities, mods  
