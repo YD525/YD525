@@ -37,7 +37,6 @@ I chose **completely** open source because I wanted to ensure standardization an
 
 **Focus Areas:**  
 - utilities,mods,software,website,script
-- Logic, iteration, and long-term craftsmanship
 
 💫**What kind of person is YD525:**
 - There are two kinds of people in the world.
