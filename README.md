@@ -36,7 +36,7 @@ I chose **completely** open source because I wanted to ensure standardization an
 - Whether it's module script development, software development, or website development, my logic remains the same ~
 
 **Focus Areas:**  
-- Tools, utilities, mods  
+- utilities,mods,software,website,script
 - Logic, iteration, and long-term craftsmanship
 
 💫**What kind of person is YD525:**
