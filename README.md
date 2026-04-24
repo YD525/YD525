@@ -47,5 +47,3 @@ The other also doesn’t care about money, but contributes mainly to seek encour
 - The former is greater than the latter.
 
 - YD525 belongs to the latter.
-
-If you like my work, consider giving it a ⭐ as a small gesture of support.
