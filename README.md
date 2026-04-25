@@ -49,8 +49,10 @@ The other also doesn’t care about money, but contributes mainly to seek encour
 - YD525 belongs to the latter.
 
 - When I could write programs quickly, I was proud of my development speed and rapid debugging ability; I won against many competitors because of my speed. But after seeing AI and its code, I realized I might have lost.
-  I know everything that beats the competition: rapid iteration. My layered approach to the overall architecture, with its highly separated layers, allows for quick modifications.
-  This is no longer an era where you need to memorize programming language built-in functions, study Windows APIs, or rely on VB6.0.
+
+   I know everything that beats the competition: rapid iteration. My layered approach to the overall architecture, with its highly separated layers, allows for quick modifications.
+
+   This is no longer an era where you need to memorize programming language built-in functions, study Windows APIs, or rely on VB6.0.
   
 - So I joined GitHub to showcase everything about myself.
 - Even if you lose, you should lose gracefully.
