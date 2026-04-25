@@ -44,9 +44,9 @@ I chose **completely** open source because I wanted to ensure standardization an
   One kind contributes without caring about money or reputation.
 The other also doesn’t care about money, but contributes mainly to seek encouragement from users and to be liked by them.
 
-- The former is greater than the latter.
+  The former is greater than the latter.
 
-- YD525 belongs to the latter.
+  YD525 belongs to the latter.
 
 - When I could write programs quickly, I was proud of my development speed and rapid debugging ability; I won against many competitors because of my speed. But after seeing AI and its code, I realized I might have lost.
 
