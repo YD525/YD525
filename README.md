@@ -47,3 +47,7 @@ The other also doesn’t care about money, but contributes mainly to seek encour
 - The former is greater than the latter.
 
 - YD525 belongs to the latter.
+
+- When I could write programs quickly, I was proud of my development speed and rapid debugging ability; I won against many competitors because of my speed. But after seeing AI and its code, I realized I might have lost.
+- So I joined GitHub to showcase everything about myself.
+- Even if you lose, you should lose gracefully.
