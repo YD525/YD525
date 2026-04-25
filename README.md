@@ -47,12 +47,3 @@ The other also doesn’t care about money, but contributes mainly to seek encour
   The former is greater than the latter.
 
   YD525 belongs to the latter.
-
-- When I could write programs quickly, I was proud of my development speed and rapid debugging ability; I won against many competitors because of my speed. But after seeing AI and its code, I realized I might have lost.
-
-   I know everything that beats the competition: rapid iteration. My layered approach to the overall architecture, with its highly separated layers, allows for quick modifications.
-
-   This is no longer an era where you need to memorize programming language built-in functions, study Windows APIs, or rely on VB6.0.
-  
-- So I joined GitHub to showcase everything about myself.(Just my personal projects, not corporate projects.)
-- Even if you lose, you should lose gracefully.
