@@ -54,5 +54,5 @@ The other also doesn’t care about money, but contributes mainly to seek encour
 
    This is no longer an era where you need to memorize programming language built-in functions, study Windows APIs, or rely on VB6.0.
   
-- So I joined GitHub to showcase everything about myself.
+- So I joined GitHub to showcase everything about myself.(Just my personal projects, not corporate projects.)
 - Even if you lose, you should lose gracefully.
