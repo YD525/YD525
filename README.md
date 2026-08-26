@@ -1,7 +1,7 @@
-👋 Hi, I’m YD525 (约定)
+👋 Hi, I’m YD525
 
 ✨ **About My Name**  
-YD comes from the initials of the Pinyin YueDing. 525 is a set of numbers that carries a special meaning to me—something I’ll never forget.
+525 is a set of numbers that carries a special meaning to me—something I’ll never forget.
 
 💫 **Who I Am**  
 🐾 I enjoy writing code and exchanging technical ideas with others. It makes me very happy.  
